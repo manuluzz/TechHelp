@@ -1,2 +1,2 @@
 # TechHelp
-Repositorio paraatividade prática de GitHub - IT Talent
+# # Repositorio para atividade prática de GitHub - IT Talent
